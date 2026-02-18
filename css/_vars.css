@@ -1,0 +1,9 @@
+:root{
+    --title-font-family: "Delius Unicase", cursive;
+    --figcaption-font-family: "Roboto", sans-serif;
+    --title-color: black;
+    --figcaption-color: white;
+    --title-font-size: 36px;
+    --figcaption-font-size: 20px;
+    --width-container: 1170px;
+}
